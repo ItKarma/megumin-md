@@ -1,0 +1,28 @@
+{
+  "name": "megumin-md",
+  "version": "1.0.0",
+  "description": "my bot personal",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danzok/megumin-md.git"
+  },
+  "keywords": [
+    "bot-zap",
+    "megumin-bot"
+  ],
+  "author": "danzok",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danzok/megumin-md/issues"
+  },
+  "homepage": "https://github.com/danzok/megumin-md#readme",
+  "devDependencies": {
+    "husky": "^8.0.2",
+    "lint-staged": "^13.0.3",
+    "standard": "^17.0.0"
+  }
+}
