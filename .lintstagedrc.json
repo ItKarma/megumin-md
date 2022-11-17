@@ -1,5 +1,5 @@
 ﻿{
-    "*.js": [
+    "src/*js": [
       "standard --fix",
       "git add"
     ]
