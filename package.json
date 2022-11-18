@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/danzok/megumin-md.git"
@@ -24,5 +25,9 @@
     "husky": "^8.0.2",
     "lint-staged": "^13.0.3",
     "standard": "^17.0.0"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^4.4.0",
+    "qrcode-terminal": "^0.12.0"
   }
 }
